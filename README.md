@@ -3,6 +3,8 @@
 ## Overview
 This project uses API from OpenWeather to export data. This application will provided a 5-day forecast, including temperature, humidity, visibility and more.
 
+## **You can see my website here:** [Weather Forecast](https://shiru.shinyapps.io/MiniProject/)
+
 ### Features
 - **5-Day Forecast**: Get weather predictions for the next five days.
 - **Interactive Maps**: View weather conditions on a map using `leaflet`.
