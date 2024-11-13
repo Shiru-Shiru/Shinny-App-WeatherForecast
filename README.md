@@ -24,8 +24,7 @@ The following R packages are utilized in this application:
 
 ## Getting Started
 To run the app locally:
-1. Clone this repository.
-2. Open the project in RStudio.
-3. Install the required packages using `install.packages()`.
-4. Run the code:
+1. Open the project in RStudio.
+2. Install the required packages using `install.packages()`.
+3. Run the code:
 
